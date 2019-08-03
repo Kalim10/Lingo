@@ -22,7 +22,7 @@ public class Lingo {
                 System.out.print("1");
                 if(invoer.charAt(0) == woord.charAt(x))
                     System.out.print("2");
-                else System.out.println("0");
+                else System.out.print("0");
             }
         }
 //        for (int y = 0; y < woord.length(); y++) {
